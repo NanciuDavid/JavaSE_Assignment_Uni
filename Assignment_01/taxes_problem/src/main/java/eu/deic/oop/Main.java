@@ -3,7 +3,7 @@ import java.util.*;
 
 
 
-public class TaxesProblem 
+public class Main 
 {
 
     public static void main( String[] args )
