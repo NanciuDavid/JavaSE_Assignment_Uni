@@ -48,6 +48,7 @@ public class Main {
         System.out.printf("\nThe average consume is : %.2f liters", averageConsume);
         System.out.printf("\nThe average cost is : %.2f $", averageCost);
 
+        scanner.close();
     }
 
     
